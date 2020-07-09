@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on @Danale
+- 🌱 I’m currently learning computer vision
+- 📫 How to reach me: haormj@gmail.com
+
 <!--
 **haormj/haormj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
