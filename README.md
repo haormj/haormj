@@ -1,6 +1,11 @@
+
+
+
 ### Hi there 👋
 
 **Thanks for visiting my GitHub profile, it's great to meet you here!** 😊
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=haormj&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 Here are some ideas to get you started:
 
