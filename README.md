@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on @Danale
+- 🔭 I’m currently working on @Baidu
 - 🌱 I’m currently learning computer vision
 - 📫 How to reach me: haormj@gmail.com
 
